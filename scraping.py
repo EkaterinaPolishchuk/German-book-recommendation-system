@@ -78,3 +78,4 @@ def scrape_pages(num_pages=2):
 if __name__ == "__main__":
     scraped_books = scrape_pages(10)
     print(scraped_books)
+    
